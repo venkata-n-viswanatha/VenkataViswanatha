@@ -1,0 +1,2 @@
+This is a test file created in local repository.
+File is being pushed onto developB branch
